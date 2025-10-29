@@ -1,2 +1,6 @@
 # Deema-s-Kitchen
 SnapMenu AI is an intelligent recipe generation app that transforms cooking through visual AI technology. Simply snap a photo of your ingredients, and instantly receive personalized recipe suggestions. Say goodbye to food waste and meal planning stress.
+SnapMenu AI revolutionizes home cooking by combining cutting-edge artificial intelligence with everyday culinary needs. Our app solves a universal problem: not knowing what to cook with available ingredients.
+Using advanced computer vision technology, SnapMenu AI identifies ingredients from a single photo and generates personalized, step-by-step recipes in seconds. The app learns your taste preferences, dietary restrictions, and cooking style to deliver increasingly accurate suggestions over time.
+Key capabilities include instant ingredient recognition, smart recipe filtering by prep time and cuisine type, expiry date tracking to reduce food waste, and AI-generated food presentation images for visual inspiration. Whether you're a busy professional, college student, or eco-conscious cook, SnapMenu AI makes cooking effortless, sustainable, and enjoyable.
+Our mission is simple: transform kitchens worldwide by eliminating food waste, saving time and money, and reigniting the joy of home cooking through intelligent technology.
